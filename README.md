@@ -6,6 +6,14 @@ I=???
 
 <img src="https://github.com/cgh2797/Integrate-and-fire-model/blob/master/first_IF.png" width="70%"><img>
 
+## second trial
+<img src="https://github.com/cgh2797/Integrate-and-fire-model/blob/master/LIF-version2.png" width="70%"><img>
+
+## alpha synapse
+<img src="https://github.com/cgh2797/Integrate-and-fire-model/blob/master/alpha1.png" width="70%"><img>
+
+<img src="https://github.com/cgh2797/Integrate-and-fire-model/blob/master/alpha2.png" width="70%"><img>
+
 ## reference
 MIT_open course [link](https://ocw.mit.edu/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/tutorials/tutorial-2.-matlab-programming/)
 
