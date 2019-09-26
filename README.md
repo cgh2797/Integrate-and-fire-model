@@ -22,3 +22,5 @@ MIT_open course [link](https://ocw.mit.edu/resources/res-9-003-brains-minds-and-
 Integrate-and-Fire Neurons and Networks (Wulfram Gerstner)  [link](https://pdfs.semanticscholar.org/5735/6ca9e37d7d061793a80329dcb7a7421dc039.pdf)
 
 Neuronal dynamics [link](https://neuronaldynamics.epfl.ch/online/index.html)
+
+Generalized Integrate-and-Fire mode [link](https://pillowlab.princeton.edu/code_GIF.html)
