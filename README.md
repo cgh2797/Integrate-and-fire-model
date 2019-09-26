@@ -20,6 +20,9 @@ adapation??, network???
 
 <img src="https://github.com/cgh2797/Integrate-and-fire-model/blob/master/alpha2.png" width="70%"><img>
 
+## pillow_GIF
+rundynam_gif_mex.mexw64 (cannot open)
+
 ## reference
 IF tutorial [link](https://ocw.mit.edu/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/tutorials/tutorial-2.-matlab-programming/MITRES_9_003SUM15_fire.pdf)
 
