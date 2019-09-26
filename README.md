@@ -2,7 +2,7 @@
 
 ## first trial
 
-I=???
+I=constant
 
 <img src="https://github.com/cgh2797/Integrate-and-fire-model/blob/master/first_IF.png" width="70%"><img>
 
