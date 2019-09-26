@@ -8,6 +8,7 @@ I=???
 
 ## second trial
 +refactoring period
++only describe under threshold
 
 <img src="https://github.com/cgh2797/Integrate-and-fire-model/blob/master/LIF-version2.png" width="70%"><img>
 
