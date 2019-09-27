@@ -1,5 +1,8 @@
 # IF model
 
+## note
+adaptation: if constant input -> ISI get longer and longer
+
 ## first trial
 
 I=constant
