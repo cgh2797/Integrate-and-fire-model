@@ -2,6 +2,7 @@
 
 ## note
 adaptation: if constant input -> ISI get longer and longer
+
 f-i curve : relation with frequency and input current
 
 
