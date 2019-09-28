@@ -5,7 +5,7 @@ adaptation: if constant input -> ISI get longer and longer
 
 f-i curve : relation with frequency and input current
 
-type 1 : HH model with other parameters / high and low frequency(e.g. for cortical pyramidal neruon)
+type 1 : HH model with other parameters / high and low frequency(e.g. for cortical pyramidal neruon)   
 type 2 : HH model with standard parameters / high frequency (giant axon of squid)
 
 
