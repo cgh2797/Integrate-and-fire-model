@@ -8,6 +8,8 @@ f-i curve : relation with frequency and input current
 type 1 : HH model with other parameters / high and low frequency(e.g. for cortical pyramidal neruon)   
 type 2 : HH model with standard parameters / high frequency (giant axon of squid)
 
+neuonal dynamics 강의 : ch4까지 봄 / ch.7
+
 
 ## first trial
 
