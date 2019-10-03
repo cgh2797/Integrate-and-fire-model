@@ -8,9 +8,9 @@ f-i curve : relation with frequency and input current
 type 1 : HH model with other parameters / high and low frequency(e.g. for cortical pyramidal neruon)   
 type 2 : HH model with standard parameters / high frequency (giant axon of squid)
 
-HH model: 4 dim model
-fitzhugh nagumo model : 2 dim version of HH model
-Expontial IF model : 1 dim version of HH (fitzhugh nagumo) model
+HH model: 4 dim model  
+fitzhugh nagumo model : 2 dim version of HH model  
+Expontial IF model : 1 dim version of HH (fitzhugh nagumo) model  
 
 phase plane : bifurcation
 
