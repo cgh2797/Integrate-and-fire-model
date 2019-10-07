@@ -41,6 +41,11 @@ adapation??, network???, noise???
 
 <img src="https://github.com/cgh2797/Integrate-and-fire-model/blob/master/alpha2.png" width="70%"><img>
 
+## LIF Net
+
+<img src="https://github.com/cgh2797/Integrate-and-fire-model/blob/master/img/Simlif.png" width="70%"><img>
+
+
 ## pillow_GIF
 rundynam_gif_mex.c
 
