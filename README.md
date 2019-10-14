@@ -42,6 +42,12 @@ adapation??, network???, noise???
 <img src="https://github.com/cgh2797/Integrate-and-fire-model/blob/master/alpha2.png" width="70%"><img>
 
 ## LIF Net
+%G = @(u,v,tG) sum(v.^2.*(tG-u).*exp(-v.*(tG-u)));
+
+    for sl=1:size(Wsparse,1)  
+        spikeEffects(sl) = G(spk{Wsparse(sl,1)},a(Aix(sl)),t(id)) * W(Aix(sl));
+        
+           synapses = accumarray(Wsparse(:,2),spikeEffects,[],@sum,0);
 
 <img src="https://github.com/cgh2797/Integrate-and-fire-model/blob/master/img/Simlif.png" width="70%"><img>
 
