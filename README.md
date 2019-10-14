@@ -46,8 +46,9 @@ adapation??, network???, noise???
 
     for sl=1:size(Wsparse,1)  
         spikeEffects(sl) = G(spk{Wsparse(sl,1)},a(Aix(sl)),t(id)) * W(Aix(sl));
+    end
         
-           synapses = accumarray(Wsparse(:,2),spikeEffects,[],@sum,0);
+synapses = accumarray(Wsparse(:,2),spikeEffects,[],@sum,0);
 
 <img src="https://github.com/cgh2797/Integrate-and-fire-model/blob/master/img/Simlif.png" width="70%"><img>
 
